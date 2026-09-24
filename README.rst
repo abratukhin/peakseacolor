@@ -1,5 +1,5 @@
 =============================
-Peak Sea Color Schema for VIM
+Peak Sea Color Schema for VIM (deprecated)
 =============================
 
 It's customized light gray color schema. The original schema is here - 
